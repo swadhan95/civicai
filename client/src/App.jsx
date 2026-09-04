@@ -7,7 +7,7 @@ import { NotificationProvider } from './context/NotificationContext';
 import Navbar from './components/common/Navbar';
 import Footer from './components/common/Footer';
 import ProtectedRoute from './components/common/ProtectedRoute';
-
+//public
 // Public Pages
 import LandingPage from './pages/LandingPage';
 import LoginPage from './pages/LoginPage';
