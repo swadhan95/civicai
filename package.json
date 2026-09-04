@@ -1,0 +1,16 @@
+{
+  "name": "civicai",
+  "version": "1.0.0",
+  "description": "CivicAI - AI-Powered Public Issue Reporting Full-Stack Platform",
+  "scripts": {
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "seed": "npm run seed --prefix server",
+    "test:server": "npm test --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

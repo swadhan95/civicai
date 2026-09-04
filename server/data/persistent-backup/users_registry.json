@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Suresh Citizen",
+    "displayName": "Suresh C.",
+    "email": "test_citizen_1788426756600@civicai.org",
+    "password": "$2a$10$xEKhqfeHI/nqn.7RusQnceUDHgH4mpcz.PzIw1C8vb0r1ug3eCxv2",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:12:36.884Z"
+  },
+  {
+    "name": "Officer Rajesh Kumar",
+    "displayName": "Officer R.",
+    "email": "test_officer_1788426756600@civicai.org",
+    "password": "$2a$10$4.2CSNLvDmsmyYjFi44s7u121HJpwgoMqFC3Fg5jo1QZgyMD0v8Xy",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:12:36.884Z"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "displayName": "Rajesh K. (Admin)",
+    "email": "admin@civicai.org",
+    "password": "$2a$10$d03x3iaqMM8euycaokSpWuTzjsEEIlHwqOAf285IQTmUFOBAMducq",
+    "role": "ADMIN",
+    "departmentCode": null,
+    "points": 2500,
+    "rank": {
+      "name": "Civic Champion",
+      "code": "CIVIC_CHAMPION",
+      "badge": "🏆"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-04T08:08:17.928Z"
+  },
+  {
+    "name": "Inspector Vikram Rao",
+    "displayName": "Vikram R. (Roads)",
+    "email": "officer@civicai.org",
+    "password": "$2a$10$2NdYZb16ui.4WsR16Xg.DOEFu9RUqicGNGY3Ua50QXUYeJiXRRKu2",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 1200,
+    "rank": {
+      "name": "Platinum Contributor",
+      "code": "PLATINUM",
+      "badge": "💎"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-04T08:08:17.984Z"
+  },
+  {
+    "name": "Officer Meera Sen",
+    "displayName": "Meera S. (Sanitation)",
+    "email": "sanitation@civicai.org",
+    "password": "$2a$10$AMw3YGAGY9.w0DDSNHxSyOyahzdK03W/aPAYTYbwtcEpNlDZqKXZ.",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 850,
+    "rank": {
+      "name": "Gold Contributor",
+      "code": "GOLD",
+      "badge": "🥇"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-04T08:08:18.036Z"
+  },
+  {
+    "name": "Rahul Sharma",
+    "displayName": "Rahul S.",
+    "email": "citizen@civicai.org",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 420,
+    "rank": {
+      "name": "Silver Contributor",
+      "code": "SILVER",
+      "badge": "🥈"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-04T08:08:18.089Z",
+    "password": "$2a$10$4OKDbL0p8dJQ5Zhl8ylR6e17VtISL49KF9016rizmg/LCrFtIgOea"
+  },
+  {
+    "name": "Ananya Patel",
+    "displayName": "Ananya P.",
+    "email": "ananya@civicai.org",
+    "password": "$2a$10$5W4FZgT5SiJeiELpHtEWw.Q5.uIPcUEBYNY.OUTBLmJJifGVFVDSm",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 1540,
+    "rank": {
+      "name": "Platinum Contributor",
+      "code": "PLATINUM",
+      "badge": "💎"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-04T08:08:18.141Z"
+  },
+  {
+    "name": "Priya Nair",
+    "displayName": "Priya N.",
+    "email": "priya@civicai.org",
+    "password": "$2a$10$f8ouUrJW0QTI70EfK6r8AecVhziZJRUdztP.VGH6JQG9H14QvxExi",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 2340,
+    "rank": {
+      "name": "Civic Champion",
+      "code": "CIVIC_CHAMPION",
+      "badge": "🏆"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-04T08:08:18.193Z"
+  },
+  {
+    "name": "Arjun Verma",
+    "displayName": "Arjun V.",
+    "email": "arjun@civicai.org",
+    "password": "$2a$10$aJX9CRDlAPUxRIffFz0rA.azvynOBxR2PDLsIJjBlOI7u/4d42F5q",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 870,
+    "rank": {
+      "name": "Gold Contributor",
+      "code": "GOLD",
+      "badge": "🥇"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-04T08:08:18.244Z"
+  },
+  {
+    "name": "Devika Krishnan",
+    "displayName": "Devika K.",
+    "email": "devika@civicai.org",
+    "password": "$2a$10$dzl5y2acxaFqJIpeVWg8PONFV.fT1lANgfzy9.zqNellcU2ZLJ4OW",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 190,
+    "rank": {
+      "name": "Bronze Contributor",
+      "code": "BRONZE",
+      "badge": "🥉"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-04T08:08:18.296Z"
+  },
+  {
+    "name": "Suresh Citizen",
+    "displayName": "Suresh C.",
+    "email": "test_citizen_1788426818820@civicai.org",
+    "password": "$2a$10$xEKhqfeHI/nqn.7RusQnceUDHgH4mpcz.PzIw1C8vb0r1ug3eCxv2",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:13:39.034Z"
+  },
+  {
+    "name": "Officer Rajesh Kumar",
+    "displayName": "Officer R.",
+    "email": "test_officer_1788426818820@civicai.org",
+    "password": "$2a$10$4.2CSNLvDmsmyYjFi44s7u121HJpwgoMqFC3Fg5jo1QZgyMD0v8Xy",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:13:39.035Z"
+  },
+  {
+    "name": "Suresh Citizen",
+    "displayName": "Suresh C.",
+    "email": "test_citizen_1788426850963@civicai.org",
+    "password": "$2a$10$xEKhqfeHI/nqn.7RusQnceUDHgH4mpcz.PzIw1C8vb0r1ug3eCxv2",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:14:11.173Z"
+  },
+  {
+    "name": "Officer Rajesh Kumar",
+    "displayName": "Officer R.",
+    "email": "test_officer_1788426850963@civicai.org",
+    "password": "$2a$10$4.2CSNLvDmsmyYjFi44s7u121HJpwgoMqFC3Fg5jo1QZgyMD0v8Xy",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:14:11.173Z"
+  },
+  {
+    "name": "manoj",
+    "displayName": "manoj",
+    "email": "manojsrungavarapu@gmail.com",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 50,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "konaseema",
+    "updatedAt": "2026-09-03T09:22:23.783Z",
+    "password": "$2a$10$xEKhqfeHI/nqn.7RusQnceUDHgH4mpcz.PzIw1C8vb0r1ug3eCxv2"
+  },
+  {
+    "name": "vaishnavi",
+    "displayName": "vaishnavi",
+    "email": "vaishnavi.roads@civicai.gov",
+    "password": "$2a$10$4.2CSNLvDmsmyYjFi44s7u121HJpwgoMqFC3Fg5jo1QZgyMD0v8Xy",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Municipal Officer",
+      "code": "OFFICER",
+      "badge": "🛡️"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:20:04.338Z"
+  },
+  {
+    "name": "Manoj S.",
+    "displayName": "Manoj S.",
+    "email": "manojsrungavarapu2008@gmail.com",
+    "password": "$2a$10$xEKhqfeHI/nqn.7RusQnceUDHgH4mpcz.PzIw1C8vb0r1ug3eCxv2",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 100,
+    "rank": {
+      "name": "Silver Contributor",
+      "code": "SILVER",
+      "badge": "🥈"
+    },
+    "city": "Konaseema",
+    "updatedAt": "2026-09-03T09:27:03.799Z"
+  },
+  {
+    "name": "Suresh Citizen",
+    "displayName": "Suresh C.",
+    "email": "test_citizen_1788428914047@civicai.org",
+    "password": "$2a$10$nYnKIUzPUzipch9VMHluRe/grx5ez3LrMoU0InKCmIB44.KNhr.im",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:48:34.256Z"
+  },
+  {
+    "name": "Officer Rajesh Kumar",
+    "displayName": "Officer R.",
+    "email": "test_officer_1788428914047@civicai.org",
+    "password": "$2a$10$j02JGhivc7M8.59OZzuCpegs/TMZq7jLTVksiPkfRM9ZbkhA69zf2",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T09:48:34.256Z"
+  },
+  {
+    "name": "Suresh Citizen",
+    "displayName": "Suresh C.",
+    "email": "test_citizen_1788432601928@civicai.org",
+    "password": "$2a$10$bC1jd50T1yDeQ1G9eRz3v.4y0KoMV.z5K8UmXI4BVg.B2NAkbu27O",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T10:50:02.150Z"
+  },
+  {
+    "name": "Officer Rajesh Kumar",
+    "displayName": "Officer R.",
+    "email": "test_officer_1788432601928@civicai.org",
+    "password": "$2a$10$iAxAiEP0kRJsOKehtBg59esPaOGddJU4AH14VCGtJJVQCOk.pykV6",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T10:50:02.150Z"
+  },
+  {
+    "name": "sreesanth",
+    "displayName": "sreesanth",
+    "email": "sree.roads@civicai.gov",
+    "password": "$2a$10$IJA/LDXTMd/.xhSTmM4fvOUaYwQO06nMuHxuCyjKd6EjTKGJdxHGe",
+    "role": "OFFICER",
+    "departmentCode": null,
+    "points": 500,
+    "rank": {
+      "name": "Gold Contributor",
+      "code": "GOLD",
+      "badge": "🥇"
+    },
+    "city": "Metropolis",
+    "updatedAt": "2026-09-03T11:56:31.972Z"
+  },
+  {
+    "name": "Jeswanth Varrey",
+    "displayName": "Jeswanth V.",
+    "email": "jeswanthvarrey@gmail.com",
+    "password": "$2a$10$s7n8z/4AYog.az1zGJPkTOvLRBdzNLEFioytfSNxh0BQnQEqy4wya",
+    "role": "CITIZEN",
+    "departmentCode": null,
+    "points": 0,
+    "rank": {
+      "name": "Beginner",
+      "code": "BEGINNER",
+      "badge": "🌱"
+    },
+    "city": "BHIMAVARAM",
+    "updatedAt": "2026-09-04T05:55:35.016Z"
+  }
+]
